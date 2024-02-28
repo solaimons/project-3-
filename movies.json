@@ -1,0 +1,72 @@
+[
+      {
+            "title": "Seven",
+            "iscore": 8.6,
+            "rating": "R",
+            "runtime": 124,
+            "released": [1995, 9, 22],
+            "country": "USA",
+            "posters": ["img/Seven_1.jpg", "img/Seven_2.jpg", "img/Seven_3"],
+            "imdb": "https://www.imdb.com/title/tt0114369/",
+            "website": "https://www.warnerbros.com/movies/seven",
+            "likes": 1021,
+            "dislikes": 122,
+            "posterindex": 0
+      },
+      {
+            "title": "Interstellar",
+            "iscore": 8.7,
+            "rating": "PG-13",
+            "runtime": 169,
+            "released": [2014, 10, 26],
+            "country": "USA",
+            "posters": ["img/steller1.jpg", "img/steller2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0816692/",
+            "website": "https://www.paramountpictures.com/movies/interstellar",
+            "likes": 928,
+            "dislikes": 109,
+            "posterindex": 0
+      },
+      {
+            "title": "Pulp Fiction",
+            "iscore": 8.9,
+            "rating": "R",
+            "runtime": 154,
+            "released": [1994, 10, 14],
+            "country": "USA",
+            "posters": ["img/pulp.jpg", "img/pulp2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0110912/",
+            "website": "https://www.miramax.com/movie/pulp-fiction/",
+            "likes": 855,
+            "dislikes": 99,
+            "posterindex": 0
+      },
+      {
+            "title": "The Dark Knight",
+            "iscore": 8.9,
+            "rating": "PG-13",
+            "runtime": 152,
+            "released": [2008, 7, 18],
+            "country": "USA",
+            "posters": ["img/darkknight.jpg", "img/darkknight2.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0468569",
+            "website": "http://www.42entertainment.com/work/whysoserious",
+            "likes": 828,
+            "dislikes": 127,
+            "posterindex": 0
+      },
+      {
+            "title": "Django Unchained",
+            "iscore": 8.5,
+            "rating": "R",
+            "runtime": 165,
+            "released": [2012, 12, 25],
+            "country": "USA",
+            "posters": ["img/chain.jpg" ,"img/chain2.jpg"  ],
+            "imdb": "https://www.imdb.com/title/tt1853728/",
+            "website": "https://wiki.tarantino.info/index.php/Django_Unchained",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
+      }
+]
